@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-To download my CV, click [here](/files/Alavi-CV.pdf)
+To download my CV, click [here](/files/Alavi-CV2.pdf)
