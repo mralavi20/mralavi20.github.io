@@ -50,10 +50,6 @@ author_profile: true
   font-weight: 600;
 }
 
-.education-note {
-  margin-top: 0.6rem;
-}
-
 @media (max-width: 600px) {
   .education-header {
     display: block;
@@ -80,10 +76,6 @@ author_profile: true
 
   <div class="education-details">
     <span class="education-gpa">GPA:</span> 18.73/20
-  </div>
-
-  <div class="education-note">
-    • Ranked among the top students.
   </div>
 
 </div>
