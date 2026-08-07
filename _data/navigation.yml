@@ -22,6 +22,9 @@ main:
   
   - title: "Education"
     url: /education/
+
+  - title: "Academic Experiences"
+    url: /academic-experiences/
     
   - title: "CV"
     url: /cv/
