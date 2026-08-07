@@ -19,9 +19,12 @@ main:
         
   # - title: "Blog Posts"
   #   url: /year-archive/
-
+  
   - title: "Education"
     url: /education/
+
+  - title: "Certificates"
+    url: /certificates/
     
   - title: "CV"
     url: /cv/
