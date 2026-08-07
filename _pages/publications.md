@@ -132,12 +132,6 @@ author_profile: true
   </div>
 
   <div class="publication-links">
-    <a href="https://arxiv.org/abs/2607.19455"
-       target="_blank"
-       rel="noopener noreferrer">
-      arXiv
-    </a>
-
     <a href="https://arxiv.org/pdf/2607.19455"
        target="_blank"
        rel="noopener noreferrer">
