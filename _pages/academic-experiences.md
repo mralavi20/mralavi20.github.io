@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Academic Experience"
-permalink: /academic-experience/
+title: "Academic Experiences"
+permalink: /academic-experiences/
 author_profile: true
 ---
 
@@ -50,7 +50,7 @@ author_profile: true
 
 <div class="academic-section">
 
-  <h2 class="academic-section-title">Research Experience</h2>
+  <h2 class="academic-section-title">Research Experiences</h2>
 
   <div class="academic-entry">
     <h3 class="academic-role">Remote Research Assistant</h3>
@@ -71,7 +71,7 @@ author_profile: true
 
 <div class="academic-section">
 
-  <h2 class="academic-section-title">Teaching Experience</h2>
+  <h2 class="academic-section-title">Teaching Experiences</h2>
 
   <div class="academic-entry">
     <h3 class="academic-role">Supervisor</h3>
