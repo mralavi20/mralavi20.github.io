@@ -121,7 +121,7 @@ author_profile: true
   </div>
 
   <div class="publication-venue">
-    arXiv preprint, arXiv:2607.19455 [cs.LG]
+    Submitted to Soft Computing Journal; arXiv preprint, arXiv:2607.19455 [cs.LG]
   </div>
 
   <div class="publication-description">
