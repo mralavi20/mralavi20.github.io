@@ -53,7 +53,7 @@ author_profile: true
   <h2 class="academic-section-title">Research Experiences</h2>
 
   <div class="academic-entry">
-    <h3 class="academic-role">Remote Research Assistant</h3>
+    <h3 class="academic-role">Intern</h3>
     <div class="academic-place">University of Waterloo</div>
     <div class="academic-person">Prof. Amir-Hossein Karimi</div>
   </div>
@@ -61,9 +61,19 @@ author_profile: true
   <div class="academic-entry">
     <h3 class="academic-role">Research Assistant</h3>
     <div class="academic-place">
-      Tehran Institute for Advanced Studies (TEIAS) – Khatam University
+      Tehran Institute for Advanced Studies (TEIAS), Khatam University
     </div>
     <div class="academic-person">Prof. Behnam Bahrak</div>
+  </div>
+
+  <div class="academic-entry">
+    <h3 class="academic-role">Research Assistant</h3>
+    <div class="academic-place">
+      University of Tehran, University of Copenhagen
+    </div>
+    <div class="academic-person">
+      Ahmad Raeisi (PhD student at the University of Tehran and visiting researcher at the University of Copenhagen)
+    </div>
   </div>
 
 </div>
