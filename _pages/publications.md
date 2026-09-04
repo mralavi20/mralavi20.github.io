@@ -97,18 +97,18 @@ author_profile: true
 
   <div class="publication-header">
 
-    <h2 class="publication-title">
+  <h2 class="publication-title">
       <a href="https://arxiv.org/abs/2607.19455"
          target="_blank"
          rel="noopener noreferrer">
         Generating Bearing Vibration Signals at User-Specified Fault
         Probabilities Using PR-GAN and Counterfactual Methods
       </a>
-    </h2>
+  </h2>
 
-    <span class="publication-date">
-      Jul. 2026
-    </span>
+  <span class="publication-date">
+    Jul. 2026
+  </span>
 
   </div>
 
@@ -140,3 +140,47 @@ author_profile: true
   </div>
 
 </div>
+
+<div class="publication-entry">
+
+  <div class="publication-header">
+
+    <h2 class="publication-title">
+      <a href="https://engrxiv.org/preprint/view/8005"
+         target="_blank"
+         rel="noopener noreferrer">
+        A Hierarchical YOLO-Based Pipeline for Document Analysis
+        in Natural Images
+      </a>
+    </h2>
+
+    <span class="publication-date">
+      Aug. 2026
+    </span>
+
+  </div>
+
+  <div class="publication-authors">
+    <strong>Seyed Mohammadreza Alavi</strong>
+    and Mohammad Mahdi Ebrahim Soltani
+  </div>
+
+  <div class="publication-venue">
+    engrXiv preprint, DOI: 10.31224/8005
+  </div>
+
+  <div class="publication-description">
+    This work started as a small side project and was later developed into a
+    short research paper. It presents a three-stage pipeline for document
+    localization, layout analysis, and OCR-based text recognition in natural
+    images. Several YOLO models and OCR engines are evaluated on a
+    restaurant-menu image dataset.
+  </div>
+
+  <div class="publication-links">
+    <a href="https://engrxiv.org/preprint/view/8005/12991"
+       target="_blank"
+       rel="noopener noreferrer">
+      PDF
+    </a>
+  </div>
