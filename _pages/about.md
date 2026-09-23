@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Mohammadreza Alavi, computer engineering B.Sc. student at University of Teharan.
+I am Mohammadreza Alavi, a Computer Engineering graduate from the University of Tehran. I am interested in artificial intelligence and its applications, especially in machine learning, deep learning, and explainable AI.
